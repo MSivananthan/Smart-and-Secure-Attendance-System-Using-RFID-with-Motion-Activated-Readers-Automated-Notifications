@@ -4,7 +4,7 @@
 
 A smart and secure attendance tracking system built with Flask and Arduino-based RFID readers. Designed for organizations to automate attendance logging, real-time monitoring, and efficient management with motion-activated RFID readers and automatic email notifications.
 ## Homepage
-<img src="Screenshot 2025-06-21 19047.png">
+<img src="Screenshot 2025-06-21 194047.png">
 
 ## 🔧 Features
 
@@ -16,7 +16,7 @@ A smart and secure attendance tracking system built with Flask and Arduino-based
 - ⚙️ **Custom Settings**: Set working days, check-in hours, COM port, and notification preferences.
 
 ## DashBoard
-<img src="Screenshot 2025-06-21 19717.png">
+<img src="Screenshot 2025-06-21 194717.png">
 
 ## 🖥️ Technologies Used
 
@@ -28,7 +28,7 @@ A smart and secure attendance tracking system built with Flask and Arduino-based
 - **Serial Communication**: PySerial
 - **WebSocket**: Flask-Sock for real-time RFID events
 ## User Management
-<img src="Screenshot 2025-06-21 19741.png">
+<img src="Screenshot 2025-06-21 194741.png">
 
 ## 📁 Project Structure
 
@@ -43,7 +43,7 @@ A smart and secure attendance tracking system built with Flask and Arduino-based
 
 ````
 ## Employee Details
-<img src="Screenshot 2025-06-21 19804.png">
+<img src="Screenshot 2025-06-21 194804.png">
 
 ## 🚀 Getting Started
 
@@ -75,7 +75,7 @@ Visit `http://127.0.0.1:5000` in your browser.
 Open `Attendence_RFID.ino` in Arduino IDE and upload it to your Arduino board with the connected RFID module.
 
 ## Reports
-<img src="Screenshot 2025-06-21 19822.png">
+<img src="Screenshot 2025-06-21 194822.png">
 
 ## 🧠 Smart Logic
 
@@ -97,7 +97,7 @@ sender_password = "your-app-password"
 * Mobile-responsive layout
 * Employee profile cards and attendance table
 ## Setting
-<img src="Screenshot 2025-06-21 19841.png">
+<img src="Screenshot 2025-06-21 194841.png">
 
 ## 📬 Contact
 
